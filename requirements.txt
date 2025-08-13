@@ -1,0 +1,10 @@
+torch>=1.8.0
+torchvision>=0.9.0
+numpy>=1.19.0
+opencv-python>=4.5.1
+Pillow>=8.1.0
+matplotlib>=3.3.4
+tqdm>=4.56.0
+ultralytics>=8.0.0  # For YOLOv11 support
+scikit-learn>=0.24.1  # Optional for metrics calculation
+tensorboard>=2.4.1  # Optional for training visualization
