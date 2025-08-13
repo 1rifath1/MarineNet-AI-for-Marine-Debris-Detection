@@ -90,6 +90,4 @@ streamlit run app.py
 * **DeepLabv3+** architecture for semantic segmentation.
 * **Streamlit** for interactive UI.
 
----
 
-If you want, I can also create a **visually appealing README.md** for GitHub with badges, dataset info, and example result images so it looks like a polished open-source AI project. That will make it stand out to recruiters and collaborators.
