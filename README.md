@@ -7,7 +7,7 @@ An **AI**-powered application for **real-time marine debris analysis** using **Y
 
 Marine plastic pollution is a growing global challenge, threatening marine life, ecosystems, and coastal communities. This project combines state-of-the-art **object detection** and **pixel-level segmentation** techniques to:
 
-* Detect floating or stranded marine debris.
+* Detect floating or stranded marine **debris**.
 * Generate segmentation masks to locate debris precisely.
 * Calculate debris coverage percentage for quantitative analysis.
 
